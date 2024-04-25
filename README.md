@@ -5,7 +5,7 @@
 
 Hi there 👋
 
-- 🌱 I am curreentlu learning the basics of frontend development through SheCodes Plus.
+- 🌱 I am currently learning the basics of frontend development through SheCodes Plus.
 - 🤝 I am looking to collaborete on basic projects so I can improve my technical skills.
 - 👩‍💻 I am looking for help with finding volunteer work where I can start my career.
 - 📮 How you can reach me: Linkedin (@carolinaadoliveira and Instagram (@caroldoliveira). 
